@@ -14,7 +14,7 @@ The app allows users to create, view and edit recipe lists. A recipe can be in z
 ### iOS Watch App
 The iOS Watch App has a similar UI design as the iOS App. It does not support creating and editing of recipes and recipe lists, but it supports all remaining functionalities. It is primarily useful for viewing recipe lists and recipes, as well as entering the step-by-step view for convenient access while users are actively cooking a recipe.
 
-## Technical Details
+## Technical Highlights
 ### SwiftUI
 
 ### Codable/UserDefaults
